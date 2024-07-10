@@ -4,3 +4,4 @@ asyncio
 firebase-admin
 python-dotenv
 proxybroker
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
